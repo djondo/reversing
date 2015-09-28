@@ -18,6 +18,7 @@ public class Main {
 
     public static String printBackwards(String str) {
         //Print and return the value
+        //for loop
 
         System.out.println("This function will reverse the string " + str);
 
